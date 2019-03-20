@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "nadhif",
+      "email": "nadhifcoblon@gmail.com",
+      "password": "nadhifelly"
+    },
+    {
+      "id": 1,
+      "username": "a",
+      "email": "a@email.com",
+      "password": "b"
+    }
+  ],
+  "product": [
+    {
+      "name": "Cluster 6wb Digital Speedometer Cluster Bmw F30 F80 M3 M4",
+      "desc": "\taksesoris eksterior",
+      "price": 37000000,
+      "pict": "https://s1.bukalapak.com/img/1023767453/w-1000/image.jpg.webp",
+      "id": 11
+    },
+    {
+      "name": "HKS Hi Power Exhaust Muffler Size L & S",
+      "desc": "\taksesoris exterior",
+      "price": 700000,
+      "pict": "https://s0.bukalapak.com/img/0122826683/w-1000/149795_5dfaff69_09ce_4f0b_b088_21b02cc5e32b.jpg.webp",
+      "id": 16
+    },
+    {
+      "name": "Serat Karbon Bumper Depan Splitter untuk 06-08 BMW E90 E91 3 Seri M Tech Bumper-Intl",
+      "desc": "\taksesoris exterior",
+      "price": 1500000,
+      "pict": "https://id-test-11.slatic.net/p/8/carbon-fiber-front-bumper-splitter-for-06-08-bmw-e90-e91-3-series-m-tech-bumper-intl-5636-32956967-38b71059bd629e9b5fd94c849d825114.jpg",
+      "id": 17
+    }
+  ],
+  "shoppingcart": [
+    {
+      "idproduct": 12,
+      "username": "nadhif",
+      "name": "Cluster 6wb Digital Speedometer Cluster Bmw F30 F80 M3 M4",
+      "desc": "\taksesoris exterior",
+      "price": 37000000,
+      "pict": "https://s1.bukalapak.com/img/1023767453/w-1000/image.jpg.webp",
+      "qty": "3",
+      "id": 113
+    },
+    {
+      "idproduct": 16,
+      "username": "a",
+      "name": "Serat Karbon Bumper Depan Splitter untuk 06-08 BMW E90 E91 3 Seri M Tech Bumper-Intl",
+      "desc": "\taksesoris exterior",
+      "price": 1500000,
+      "pict": "https://id-test-11.slatic.net/p/8/carbon-fiber-front-bumper-splitter-for-06-08-bmw-e90-e91-3-series-m-tech-bumper-intl-5636-32956967-38b71059bd629e9b5fd94c849d825114.jpg",
+      "qty": 7,
+      "id": 115
+    }
+  ],
+  "checkout": [
+    {
+      "username": "a",
+      "quantity": "3",
+      "subtotal": 300000,
+      "id": 1
+    },
+    {
+      "username": "a",
+      "quantity": "3",
+      "subtotal": 300000,
+      "id": 2
+    }
+  ]
+}
